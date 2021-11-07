@@ -22,4 +22,4 @@ RGB image             |  Processed Segmentation Label Mask Visualized
 Architectures | Encoders | Weight
 --------------|-----------|----------
 FPN | timm-mobilenetv3_large_075 | [Download](https://github.com/wtarit/carla-segmentation-demo/releases/download/v0.0.1/FPN_timm-mobilenetv3_large_075.pth)
-Unet | timm-mobilenetv3_large_075 | -
+Unet | timm-mobilenetv3_large_075 | [Download](https://github.com/wtarit/carla-segmentation-demo/releases/download/v0.0.1/Unet_timm-mobilenetv3_large_075.pth)
