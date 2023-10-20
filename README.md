@@ -5,9 +5,9 @@ Image segmentation code is based on https://github.com/qubvel/segmentation_model
 
 ## Dataset
 [**Download Dataset**](https://github.com/wtarit/carla-segmentation-demo/releases/download/v0.0.1/Processed_road_dataset.zip)  
-Dataset ถูกเก็บบน map Town07 ช่วงถนน 2 lane  
+Dataset was collected on map Town07 in 2 lane road section  
 Image size 640x480  
-Dataset เก็บ label ไว้ใน Red color channal สามารถดู code ที่ใช้ preprocess ได้ใน [preprocess_dataset.ipynb](https://github.com/wtarit/carla-segmentation-demo/blob/main/preprocess_dataset.ipynb)  
+The dataset stores its label in Red color channel, the preprocessing code is available in [preprocess_dataset.ipynb](https://github.com/wtarit/carla-segmentation-demo/blob/main/preprocess_dataset.ipynb)  
 Label    | Class
 ---------|--------
 0        | Background
